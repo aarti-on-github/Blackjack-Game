@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+    color: rgb(213, 133, 28);
+    padding: 10px;
+    font-size: 55px;
+}
+body{
+    background-repeat: no-repeat;
+    background-image: url(https://t4.ftcdn.net/jpg/00/93/36/49/360_F_93364974_eoos8QGsa9CzTa5hGRRL6EutXMSKgdOA.jpg);
+    background-size: cover;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    text-align: center;
+    color:aliceblue ;
+
+}
+p{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+
+}
+#message-el{
+    color: rgb(32, 10, 74);
+}
+button{
+    width: 150px;
+    height: 50px;
+    background-color: goldenrod;
+    font-weight: bold;
+    font-size:20px;
+    color: green;
+    border: 5px rgb(73, 73, 177);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+
+}
